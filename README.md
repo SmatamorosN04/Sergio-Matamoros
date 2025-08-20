@@ -121,11 +121,7 @@ I see myself as a proactive and adaptable person who is always eager to learn ne
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SmatamorosN04&&style=flat-square" align="center" />
