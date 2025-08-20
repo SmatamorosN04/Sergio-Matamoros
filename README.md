@@ -7,7 +7,7 @@
   
   
 
-Hi there! My name is Sergio Armando Matamoros Nuñez, and I am currently a fourth-year Computer Engineering student. I have a strong passion for software development, artificial intelligence, and educational applications. What excites me the most about technology is its potential to transform the way we learn, communicate, and solve real-world problems.
+Hi there! My name is Sergio Armando Matamoros Nuñez, and I am currently a Computer Engineering student. I have a strong passion for software development, artificial intelligence, and educational applications. What excites me the most about technology is its potential to transform the way we learn, communicate, and solve real-world problems.
 
 During my academic journey, I have worked on projects that integrate innovation and learning, such as intelligent chatbots, interactive platforms to promote reading among children, and simulations of physical processes that make studying physics more engaging. These experiences have not only strengthened my technical skills but also allowed me to grow as a communicator, a problem solver, and a leader in collaborative projects.
 
@@ -78,7 +78,7 @@ I see myself as a proactive and adaptable person who is always eager to learn ne
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://learn.microsoft.com/sql/sql-server/"target=><img style="margin: 10px" src="https://learn.microsoft.com/sql/sql-server/" alt="SQLServer" height="50" /><</a>
+
  </div>
 
 </td></tr></table>  
@@ -137,5 +137,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
