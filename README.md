@@ -97,7 +97,7 @@ I see myself as a proactive and adaptable person who is always eager to learn ne
 </a>
 
 
-<a href="https://https://www.kaggle.com/sergiomatamoros" target="_blank">
+<a href="https://www.kaggle.com/sergiomatamoros" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 </div>  
