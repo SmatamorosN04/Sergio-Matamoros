@@ -104,6 +104,7 @@ I see myself as a proactive and adaptable person who is always eager to learn ne
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmatamorosN04&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SmatamorosN04&show_icons=true&theme=dark&locales=es" align="center" /></div>  
 
 <br/>  
 
